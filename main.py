@@ -28,3 +28,4 @@ while True:
 
     except KeyboardInterrupt:
         pass  # Beenden mit CTRL+C in der Entwicklungsumgebung
+
